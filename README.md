@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm oumaima </h1>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Front-End+Developer+%7C+UI+Craftsman;Turning+ideas+into+interactive+designs;Responsive+%2B+Accessible+Web+Experiences" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Front-End+Developer+%7C+Creative+Coder;Turning+ideas+into+interactive+designs;Responsive+%2B+Accessible+Web+Experiences" alt="Typing SVG" />
+
 </p>
 
 ---
