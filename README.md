@@ -22,7 +22,7 @@ To **become a world-class front-end developer** who creates intuitive, accessibl
 - [ ] 🌐 Modern, responsive websites and web apps  
 - [ ] 🎨 UI/UX focused design systems  
 - [ ] 📱 Progressive Web Apps (PWA)  
-- [ ] 🌈 Theming, accessibility & animation-rich interfaces  
+- [ ] ⚡ Theming, accessibility & animation-rich interfaces  
 - [ ] 🧩 Front-end architecture with reusable components
 
 ---
@@ -32,22 +32,6 @@ To **become a world-class front-end developer** who creates intuitive, accessibl
 ```html
 Languages:        HTML • CSS • JavaScript • TypeScript  
 Frameworks:       React • Next.js • TailwindCSS • Bootstrap  
-UI Libraries:     Framer Motion • Chakra UI • Material UI  
-Tools:            Git • GitHub • Figma • VS Code • Postman  
+UI Libraries:     Framer Motion • Chakra UI • Material UI
+Tools:            Git • GitHub • Figma • VS Code 
 Other:            Responsive Design • Accessibility (a11y) • SEO
-## Hi there 👋
-
-<!--
-**umay97/umay97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
